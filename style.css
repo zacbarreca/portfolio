@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #262322;
+}
+
+#header {
+    background-color: #3A3E3B;
+    color: #F0EFF4;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    border-radius: 5px;
+}
+
+#header h1 {
+    font-family: 'Lexend Zetta', sans-serif;
+}
+
+#header img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #262322;
+}
+
+#projects {
+    background-color: #3A3E3B;
+    color: #F0EFF4;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+}
+
+#projects h2 {
+    font-family: 'Lexend Zetta', sans-serif;
+}
+
+#contact {
+    background-color: #3A3E3B;
+    color: #F0EFF4;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-weight: normal;
+    border-radius: 5px;
+}
+
+#contact h2 {
+    font-weight: 200;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contact img {
+    height: 32px;
+    width: 32px;
+    margin: 5px;
+}
